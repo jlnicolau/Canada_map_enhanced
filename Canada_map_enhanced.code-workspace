@@ -1,11 +1,14 @@
 {
-  "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../Old Studies/PythonStudies_envs/DataScienceStudies/Python for Data Science"
-	}
-],
-  "settings": {}
+   "folders": [
+      {
+         "path": "."
+      },
+      {
+         "path": "../Old Studies/PythonStudies_envs/DataScienceStudies/Python for Data Science/Week5 - Visualization"
+      },
+      {
+         "path": "../my-express-server"
+      }
+   ],
+   "settings": {}
 }
